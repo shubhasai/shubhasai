@@ -11,7 +11,7 @@ I am A Btech Undergrad From International Institute of Informantion Technology, 
 
 ## Learning:
 1. Android
-2. Webdev
+2. DS Algo
 
 ------------------------------
 
