@@ -2,6 +2,7 @@
 
 I am A Btech Undergrad From International Institute of Informantion Technology, Bhubaneswar(IIIT BH). Currently in my 1st year with ETC major.
 ------------------------------
+![w1](https://github-readme-stats.vercel.app/api?username=shubhasai)
 
 ## Skills:
 1. C Language
