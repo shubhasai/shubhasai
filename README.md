@@ -7,12 +7,12 @@ I am A Btech Undergrad From International Institute of Informantion Technology, 
 ## Skills:
 1. C Language
 2. Python
+3. Android
 
 ------------------------------
 
 ## Learning:
-1. Android
-2. DS Algo
+1. DS Algo
 
 ------------------------------
 
@@ -34,14 +34,7 @@ A python Based Voice Assistance with a GUI the link for the github repo is https
 
 
 ------------------------------
-### Stone Paper and Scissors
 
-The Link to Github Repo is https://github.com/shubhasai/stone-paper-scissor-game
-
-#### Features
-This a C language based game were you can play the game with a computer
-Here the system choose a product randomly and you have choose manually among the three products.
-The score will be taken from best of the three games
 ------------------------------
 
 ## CONTACT:
