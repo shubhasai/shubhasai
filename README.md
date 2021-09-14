@@ -1,4 +1,3 @@
-![Hey](https://user-images.githubusercontent.com/78340623/110732432-2bdc9800-824a-11eb-98c4-983d506509ac.gif)
 
 I am A Btech Undergrad From International Institute of Informantion Technology, Bhubaneswar(IIIT BH). Currently in my 1st year with ETC major.
 ------------------------------
