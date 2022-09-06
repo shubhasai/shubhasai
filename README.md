@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Dc3nfsNtX09kYidunYZO2x1FMKh4Lhac/view](https://drive.google.com/file/d/1Dc3nfsNtX09kYidunYZO2x1FMKh4Lhac/view)
 
-- ⚡ Fun fact **I Use My Laptop to Make Omelet**
+- ⚡ Fun fact **I Use My Laptop to Make Omelette**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
