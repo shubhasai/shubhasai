@@ -1,33 +1,39 @@
 <h1 align="center">Hi 👋, I'm Shubhasai Mohapatra</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhasai&label=Profile%20views&color=0e75b6&style=flat" alt="shubhasai" /> </p>
+# 💫 About Me:
+🌱 I’m currently learning MVVM, Jetpack<br><br>👨‍💻 All of my projects are available at https://shubhasai.github.io/<br><br>📫 How to reach me mshubhasai2002@gmail.com<br><br>📄 Know about my experiences https://docs.google.com/document/d/1ikzk_HxjLzVG3AqOVU0u5436AWHhTc52/edit?usp=sharing&ouid=117304446647628663497&rtpof=true&sd=true<br><br>⚡ Fun fact I Use My Laptop to Make Omelette
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhasai" alt="shubhasai" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/m_shubhasai" target="blank"><img src="https://img.shields.io/twitter/follow/m_shubhasai?logo=twitter&style=for-the-badge" alt="m_shubhasai" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_shubhasai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhasai-mohapatra) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mshubhasai2002) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/shubhasai-mohapatra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/m_shubhasai) 
 
-- 🌱 I’m currently learning **MVVM, Jetpack**
-
-- 👨‍💻 All of my projects are available at [https://shubhasai.github.io/](https://shubhasai.github.io/)
-
-- 📫 How to reach me **mshubhasai2002@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Dc3nfsNtX09kYidunYZO2x1FMKh4Lhac/view](https://drive.google.com/file/d/1Dc3nfsNtX09kYidunYZO2x1FMKh4Lhac/view)
-
-- ⚡ Fun fact **I Use My Laptop to Make Omelette**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/m_shubhasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_shubhasai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhasai-mohapatra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhasai-mohapatra/" height="30" width="40" /></a>
-<a href="https://instagram.com/m_shubhasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_shubhasai" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sm_coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sm_coder" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=shubhasai&theme=dark&hide_border=false)<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhasai&show_icons=true&locale=en" alt="shubhasai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhasai&" alt="shubhasai" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shubhasai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=m_shubhasai)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shubhasai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=shubhasai&icon=1&color=1)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/shubhasai) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
