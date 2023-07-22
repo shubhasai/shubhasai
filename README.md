@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Android developer from India</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning MVVM, Jetpack<br><br>👨‍💻 All of my projects are available at https://shubhasaimohapatra.in/<br><br>📫 How to reach me mshubhasai2002@gmail.com<br><br>📄 Know about my experiences https://docs.google.com/document/d/1ikzk_HxjLzVG3AqOVU0u5436AWHhTc52/edit?usp=sharing&ouid=117304446647628663497&rtpof=true&sd=true<br><br>⚡ Fun fact I Use My Laptop to Make Omelette
+🌱 I’m currently learning Jetpack<br><br>👨‍💻 All of my projects are available at https://shubhasaimohapatra.in/<br><br>📫 How to reach me mshubhasai2002@gmail.com<br><br>📄 Know about my experiences https://docs.google.com/document/d/1ikzk_HxjLzVG3AqOVU0u5436AWHhTc52/edit?usp=sharing&ouid=117304446647628663497&rtpof=true&sd=true<br><br>⚡ Fun fact I Use My Laptop to Make Omelette
 
 
 ## 🌐 Socials:
